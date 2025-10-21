@@ -148,3 +148,36 @@
     color:#ffffff;
 }
 
+/*Section Hero*/
+
+.hero{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+   
+}
+
+
+
+.hero-content{
+    width: 1128px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    justify-content: center;
+    align-items:flex-start ;
+}
+
+ul {
+        text-decoration: none;
+        list-style: none;
+        gap:10px;
+    }
+
+.carta-titulo{
+    color: #1d1e20;
+    font-size: 36px;
+    text-align: center;
+
+}
